@@ -9,8 +9,8 @@
 /*-------------------------------------*/
 :root {
 	/* Primary Colors */
-	--primary-color: #7dbbbb;
-	--secondary-color: #161c1dcc;
+	--primary-color: #5075A5;
+	--secondary-color: #3F4364;
 	--highlight-hover: rgba(255, 255, 255, 0.3);
 	--highlight-active: rgba(255, 255, 255, 0.1);
 	/* Primary Text */
@@ -23,7 +23,7 @@
 	--text-mission-status: rgba(255, 255, 255, 0.87);
 	--mission-start: rgba(109, 109, 109, 1);
 	--mission-partial: rgba(88, 34, 102, 1);
-	--mission-success: #226662;
+	--mission-success: #468D73;
 	--mission-failure: rgba(176, 45, 45, 1);
 	--primary-logo: #0C3C40;
 	--secondary-logo: #146464;
