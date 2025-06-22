@@ -5,7 +5,7 @@
   "defaultTitle": "Aftermath |",
   "icon": "/faction-logos/voladores.svg",
   "header": {
-    "planet": "Ark-IV-Φ'",
+    "planet": "Ark-IV-Φ",
     "year": "5017u",
     "system": "Katabasis",
     "gate": "Rào Cỏ",
@@ -13,7 +13,7 @@
     "headerTitle": "Aftermath",
     "headerSubtitle": "Freedom Fighters",
     "subheaderTitle": "For the Arkborn",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderSubtitle": "Whiskey-Tango-Foxtrot"
   },
   "pilotSpecialInfo": {}
 }
