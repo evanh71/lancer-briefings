@@ -6,19 +6,19 @@ start
 
 ## Take a Good Look Inwards
 
-*“Surprisingly lively for a dead planet...”*  
+*“What a view.”*  
 
 
 # Goals
 
-- Land on Ark-IV-Φ
-- Survive the welcome party.
-- Commandeer transportation and head to Terminal Gerin.
+- Investigate what is being held at the Collosseum
+- Take out Commander Meridian of the Last Standard
 
 # Stakes
 
-- Your future on Ark
+- The fighting power of Terminal Gerin's Last Standard forces
+- Knowledge of what's happening at the heart of the city
 
 ---
 
-> Ark-IV-Φ is a planet on the outskirts of Union Space, controlled by Harrison Armory. Purported as adead planet after an accident caused the moon to fall, it has been believed to be inhabitable for the past cycle. In reality, new leadership has taken up arms on the planet's sub-surface, working towards an unknown goal.
+> Arena fights are not an uncommon sight on Ark, as people fight for freedom. They were seemingly stopped after The Last Standard took over, but the Spec Ops division of The Last Standard's forces have been seen setting a perimeter around Terminal Gerin's Colosseum. Something is going on in there that they don't want seen. In addition, taking out Terminal Gerin's Spec Ops division could leave the local forces significantly weakened.
