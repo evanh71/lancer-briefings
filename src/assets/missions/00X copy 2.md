@@ -1,10 +1,10 @@
 004
-There's a Whole World Ahead of You
+There's a Whole World Ahead
 start
 
 # Mission // #???
 
-## There's a Whole World Ahead of You
+## There's a Whole World Ahead
 
 *“Surprisingly lively for a dead planet...”*  
 
