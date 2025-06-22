@@ -15,12 +15,12 @@
 	--highlight-active: rgba(255, 255, 255, 0.1);
 	/* Primary Text */
 	--text-headers: rgba(0, 0, 0, 1);
-	--text-location: rgba(255, 255, 255, 0.87);
+	--text-location: rgba(255, 255, 255, 1);
 	/* Location Information */
 	--location-separator: rgba(255, 255, 255, 0.24);
 	/* Mission Pane */
-	--text-mission-title: rgba(255, 255, 255, 0.67);
-	--text-mission-status: rgba(255, 255, 255, 0.87);
+	--text-mission-title: rgba(255, 255, 255, 0.87);
+	--text-mission-status: rgba(255, 255, 255, 1);
 	--mission-start: rgba(109, 109, 109, 1);
 	--mission-partial: rgba(88, 34, 102, 1);
 	--mission-success: #F46036;
@@ -28,13 +28,13 @@
 	--primary-logo: #94C9A9;
 	--secondary-logo: #C6eCAE;
 	/* Pilot Roster Text */
-	--text-pilot-header: rgba(255, 255, 255, 0.67);
-	--text-pilot-value: rgba(255, 255, 255, 0.87);
-	--text-pilot-code: rgba(255, 255, 255, 0.47);
+	--text-pilot-header: rgba(255, 255, 255, 0.87);
+	--text-pilot-value: rgba(255, 255, 255, 1);
+	--text-pilot-code: rgba(255, 255, 255, 0.67);
 	/* Markdown (Current Assignment, Events Log, Pilot Biography) */
-	--text-markdown-p: rgba(255, 255, 255, 0.87);
-	--text-markdown-h1: rgba(255, 255, 255, 0.67);
-	--text-markdown-h2: rgba(255, 255, 255, 0.87);
+	--text-markdown-p: rgba(255, 255, 255, 1);
+	--text-markdown-h1: rgba(255, 255, 255, 0.87);
+	--text-markdown-h2: rgba(255, 255, 255, 1);
 
 	/* For Firefox */
 	scrollbar-color: var(--primary-color) transparent !important;
