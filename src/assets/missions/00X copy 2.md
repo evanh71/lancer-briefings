@@ -2,9 +2,9 @@
 New Old World
 start
 
-# Mission // #001
+# Mission // #???
 
-## A New Old World
+## There's a Whole World Ahead of You
 
 *“Surprisingly lively for a dead planet...”*  
 
