@@ -5,6 +5,8 @@
 			<h2>{{ event.title }}</h2>
 		</div>
 		<img class="thumbnail" :src="event.thumbnail" />
+		<!-- Audio player for event audio -->
+		<audio v-if="event.audio" :src="event.audio" controls style="width: 100%; margin: 1em 0;"></audio>
 		<div class="preview">
 			{{ getPreview }}
 		</div>
